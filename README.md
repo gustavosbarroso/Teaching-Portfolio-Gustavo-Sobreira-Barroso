@@ -144,17 +144,7 @@ Examples include:
 
 ---
 
-## ⚛️ Physics
 
-* Classical Mechanics
-* Gravitation
-* Oscillations
-* Waves
-* Electromagnetism
-* Thermodynamics
-* Problem Solving
-
----
 
 ## 📐 Mathematics
 
