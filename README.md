@@ -214,7 +214,6 @@ teaching-portfolio/
 │   ├── interstellar-extinction/
 │   └── reddening/
 │
-├── physics/
 │
 ├── mathematics/
 │   └── analytical-geometry/
